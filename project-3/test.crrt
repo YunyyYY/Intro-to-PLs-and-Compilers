@@ -1,0 +1,38 @@
+void test_op(){
+	void a; int b; bool c;
+	a=b*(c + d)*e;
+	a=2 && b = 2;
+	c=d || e;
+	d=!a;
+	e=a>=d;f=a<=b;
+	g=c==d;
+}
+
+int x;
+bool a;
+
+struct point { int x; int y; void name;};
+struct line { struct point a; struct point b;};
+
+int compare(int a, int b){ 
+ int r; r = 0;
+ if(a==b) {return 0;} else {if(a<b) {return -1;} else {return 1;} }
+ return r;
+}
+
+bool not_qual() { 
+	// a = b&&c;       // *******     expression list cannot pass    *******
+	compare(a, b);
+	s = "hello world!";
+	while (a > b) { repeat (b > 0) {b--; }}
+	if (a!=b) {cout << "pass"; return true;} 
+	else { cout << "fail\n"; return false;}
+}
+
+void draw() {
+	struct line l1;    // ******* declaration must before statement? *******
+	cin >> l1.a.x;
+	cout << a;
+    c--;       	       // *******    will this be inside a++ = c?    *******
+	l1.a.y = 1;
+}
