@@ -1,0 +1,8 @@
+*.class
+!./deps/*.class
+parser.java
+*.xml
+P3.iml
+Carrot.jlex.java
+sym.java
+test.out

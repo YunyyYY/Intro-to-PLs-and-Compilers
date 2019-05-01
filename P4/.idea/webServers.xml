@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="05502cc8-e4e1-42c0-b63f-5b8af91d8005" name="lingyun@best-linux.cs.wisc.edu" url="http://best-linux.cs.wisc.edu">
+        <fileTransfer host="best-linux.cs.wisc.edu" port="22" rootFolder="/afs/cs.wisc.edu/u/l/i/lingyun" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

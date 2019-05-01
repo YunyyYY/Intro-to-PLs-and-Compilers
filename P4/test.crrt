@@ -1,0 +1,48 @@
+struct bar {
+    int x;
+    bool t;
+};
+
+void foo (int a, int b) {
+    // declaration
+    int c;
+    bool f;
+    bool k;
+    struct bar u;
+    // statement
+    cin >> c;
+    k = !f;
+    f = (a == b);
+    if (!f) {
+        c = a - b;
+        repeat(c < 0){
+            c++;
+        }
+        cout << c;
+    }
+    else {
+        while (c > 0) {
+            cout << c;
+            c--;
+        }
+    }
+    cin >> c;
+    //u.x = 1;
+    //u.t = true;
+    //cout << u.x;
+}
+int main() {
+    int x;
+    int y;
+    x = 5;
+    y = 24/6;
+    if ((x >= y) || (y < 0) || (x < 0 && y > 0)){
+        foo(x, y);
+    }
+    else {
+        x = y * x;
+        foo(x, y);
+    }
+
+    return 0;
+}

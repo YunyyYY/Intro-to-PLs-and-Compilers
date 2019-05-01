@@ -1,0 +1,79 @@
+// this file contains error input
+
+struct Point {
+    int x;
+    int y;
+};
+
+int fn (int a, int b) {
+    cin >> Point;
+    return;
+}
+
+void fp() {
+    struct Point p;
+    bool d;
+    cin >> p;
+    cin >> fn;
+    cout << fp();
+    cout << fn;
+    cout << Point;
+    cout << p;
+    p.x = d;
+    return p;
+}
+
+int false_return(int a, int b) {
+    bool c;
+    return c;
+}
+
+// NOT available yet
+void foo() {
+    return;
+}
+
+int main() {
+    int x;
+    int y;
+    bool c;
+    struct Point p;
+    struct Point q;
+
+    fn++;                               //  Arithmetic operator applied to non-numeric operand
+    c--;                                //  Arithmetic operator applied to non-numeric operand
+
+    p = q;                              // Struct variable assignment
+
+    x = c;                              // Type mismatch
+    x = Point;                          // Type mismatch
+
+    fn(x);                              // Function call with wrong number of args
+    fn(x, c);                           // Type of actual does not match type of formal
+    c();                                // Attempt to call a non-function
+
+    if ( c && fn ) {  x = 1; }          // Logical operator applied to non-bool operand
+    else { x = c+2; }                   // Arithmetic operator applied to non-numeric operand
+    while ( !fn || c>2 ) { x++; }       // Logical operator applied to non-bool operand
+                                        // Relational operator applied to non-numeric operand
+    while ( c && x+2 ) { x++; }         // Logical operator applied to non-bool operand
+
+    while ( c || x ) { x++; }           // Logical operator applied to non-bool operand
+    while (1 || 2) { x++; }
+    while (1) { x++; }
+
+    repeat (c)                          // Non-integer expression used as a repeat clause
+    {int r_x; fn = c; c = fn;}          // Function assignment
+
+    while ( c == x=c ) { x++; }             // Type mismatch
+    if ( fn == x ) { x++; }                 // Equality operator applied to functions
+    if ( foo() == foo() ) { x++; }          // Equality operator applied to void functions
+    if ( x == Point ) { x++; }              // Equality operator applied to struct names
+    if ( x == q ) { x++; }                  // Equality operator applied to struct variables
+
+    while ( c >= true ) { x++; }            // Relational operator applied to non-numeric operand
+
+    if (x>1 && c) { x = 1; }
+
+    return 0;
+}

@@ -1,0 +1,62 @@
+struct bar {
+    int x;
+    bool t;
+};
+
+struct bar {                        // multiply declared identifier
+    int y;
+    bool t;
+};
+
+void foo (int a, int b) {
+
+    // ---- declaration ----
+    int c;
+    bool c;                         // multiply declared identifier
+    bool f;
+    struct bar u;
+    struct point aaa;               // Invalid name of struct type
+    void vv;                        // Non-function declared void
+
+    // ---- statement ----
+    // u.x = 1;
+    f.y = true;                     // Dot-access of non-struct type
+    //cin >> m;                       // use of undeclared variable
+    //u.t = true;
+    //u.x.y = true;                   // Dot-access of non-struct type
+    u.y = true;                     // Invalid struct field name
+    f = (a == b);
+    // cin >> m;
+    if (!f) {
+        c = a - b;
+        repeat(c < 0){
+            c++;
+        }
+        cout << c;
+    }
+    else {
+        while (c > 0) {
+            cout << c;
+            c--;
+        }
+    }
+    cin >> c;
+    // cout << u.x;
+}
+
+
+int main() {
+    int x;
+    int y;
+    x = 5;
+    y = 24/6;
+    if ((x >= y) || (y < 0) || (x < 0 && y > 0)){
+        foo(x, y);
+    }
+    else {
+        x = y * x;
+        foo(x, y);
+    }
+
+    return 0;
+}

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="786b2e3c-66af-47b6-a780-35d6d8067280" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="p4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IdNode</find>
+      <find>get</find>
+      <find>STRU</find>
+      <find>ExpL</find>
+      <find>Unde</find>
+      <find>ExpListNode</find>
+      <find>Dot-access of non-struct type</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/SymTable.java" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/ErrMsg.java" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/P4.java" />
+        <option value="$PROJECT_DIR$/../download/ast.java" />
+        <option value="$PROJECT_DIR$/ast.java" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/test.out" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/Makefile" />
+        <option value="$PROJECT_DIR$/test.crrt" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/Sym.java" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/nameErrors.crrt" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/test.crrt" />
+        <option value="&lt;05502cc8-e4e1-42c0-b63f-5b8af91d8005&gt;/P4/ast.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="p4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554297655465" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="786b2e3c-66af-47b6-a780-35d6d8067280" name="Default Changelist" comment="" />
+      <created>1553635943426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553635943426</updated>
+      <workItem from="1553635945893" duration="1646000" />
+      <workItem from="1553994602019" duration="22456000" />
+      <workItem from="1554153543576" duration="943000" />
+      <workItem from="1554182795251" duration="8188000" />
+      <workItem from="1554239795917" duration="5132000" />
+      <workItem from="1554245330104" duration="12929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51294000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" weight="0.2536349" />
+      <window_info active="true" id="Remote Host" order="5" sideWeight="0.4978355" visible="true" weight="0.26494345" />
+      <window_info id="Structure" order="6" sideWeight="0.5021645" side_tool="true" weight="0.26494345" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32465753" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Favorites" order="13" weight="0.369863" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../download/SymTable.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../CS536-S19-Projects/P4/ast.java" />
+    <entry file="file://$PROJECT_DIR$/../../CS536-S19-Projects-p4-cjy/P4/ast.java" />
+    <entry file="file://$PROJECT_DIR$/../download/ast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="678" column="26" selection-start-line="678" selection-start-column="8" selection-end-line="678" selection-end-column="26" />
+          <folding>
+            <element signature="e#4446#4780#0" />
+            <element signature="e#5020#5278#0" />
+            <element signature="e#5280#5857#0" />
+            <element signature="e#5393#5786#0" />
+            <element signature="e#5496#5614#0" />
+            <element signature="e#5531#5604#1" />
+            <element signature="e#5649#5780#0" />
+            <element signature="e#5859#6459#0" />
+            <element signature="e#5986#6374#0" />
+            <element signature="e#6121#6367#1" />
+            <element signature="e#6234#6357#1" />
+            <element signature="e#6461#6862#0" />
+            <element signature="e#6500#6633#0" />
+            <element signature="e#6639#6771#0" />
+            <element signature="e#6864#7237#0" />
+            <element signature="e#6977#7166#0" />
+            <element signature="e#7107#7160#1" />
+            <element signature="e#7239#7794#0" />
+            <element signature="e#7348#7726#0" />
+            <element signature="e#7473#7719#1" />
+            <element signature="e#7586#7709#1" />
+            <element signature="e#8021#8572#0" />
+            <element signature="e#8062#8189#0" />
+            <element signature="e#8195#8383#0" />
+            <element signature="e#8574#9340#0" />
+            <element signature="e#8614#8877#0" />
+            <element signature="e#8883#9195#0" />
+            <element signature="e#9342#9694#0" />
+            <element signature="e#9386#9483#0" />
+            <element signature="e#9489#9623#0" />
+            <element signature="e#9696#10201#0" />
+            <element signature="e#9740#9853#0" />
+            <element signature="e#9859#10122#0" />
+            <element signature="e#10428#10575#0" />
+            <element signature="e#10465#10489#0" />
+            <element signature="e#10577#10727#0" />
+            <element signature="e#10615#10640#0" />
+            <element signature="e#10729#10879#0" />
+            <element signature="e#10767#10792#0" />
+            <element signature="e#10881#11137#0" />
+            <element signature="e#10982#11092#0" />
+            <element signature="e#11364#11697#0" />
+            <element signature="e#11489#11648#0" />
+            <element signature="e#11699#11996#0" />
+            <element signature="e#11814#11953#0" />
+            <element signature="e#11998#12295#0" />
+            <element signature="e#12113#12252#0" />
+            <element signature="e#12297#12662#0" />
+            <element signature="e#12402#12567#0" />
+            <element signature="e#12664#12984#0" />
+            <element signature="e#12775#12941#0" />
+            <element signature="e#12986#13605#0" />
+            <element signature="e#13026#13181#0" />
+            <element signature="e#13187#13487#0" />
+            <element signature="e#13607#14715#0" />
+            <element signature="e#13651#13982#0" />
+            <element signature="e#13988#14507#0" />
+            <element signature="e#14717#15349#0" />
+            <element signature="e#14760#14918#0" />
+            <element signature="e#14928#15231#0" />
+            <element signature="e#15351#15976#0" />
+            <element signature="e#15395#15554#0" />
+            <element signature="e#15561#15858#0" />
+            <element signature="e#15978#16285#0" />
+            <element signature="e#16094#16237#0" />
+            <element signature="e#16287#16693#0" />
+            <element signature="e#16400#16633#0" />
+            <element signature="e#16533#16603#1" />
+            <element signature="e#16918#17275#0" />
+            <element signature="e#16957#17105#0" />
+            <element signature="e#17277#17646#0" />
+            <element signature="e#17319#17473#0" />
+            <element signature="e#17648#17934#0" />
+            <element signature="e#17685#17792#0" />
+            <element signature="e#17936#18225#0" />
+            <element signature="e#17974#18082#0" />
+            <element signature="e#18262#18409#0" />
+            <element signature="e#18629#18728#0" />
+            <element signature="e#18734#18890#0" />
+            <element signature="e#18965#19392#0" />
+            <element signature="e#19004#19097#0" />
+            <element signature="e#19103#19321#0" />
+            <element signature="e#19394#19998#0" />
+            <element signature="e#19434#19540#0" />
+            <element signature="e#19546#19670#0" />
+            <element signature="e#19676#19903#0" />
+            <element signature="e#19827#19875#1" />
+            <element signature="e#20000#20160#0" />
+            <element signature="e#20162#20394#0" />
+            <element signature="e#20213#20315#0" />
+            <element signature="e#20575#20821#0" />
+            <element signature="e#20691#20819#0" />
+            <element signature="e#20823#21055#0" />
+            <element signature="e#20925#21053#0" />
+            <element signature="e#21237#21548#0" />
+            <element signature="e#21364#21546#0" />
+            <element signature="e#21550#21863#0" />
+            <element signature="e#21679#21861#0" />
+            <element signature="e#21865#22178#0" />
+            <element signature="e#21994#22176#0" />
+            <element signature="e#22180#22495#0" />
+            <element signature="e#22311#22493#0" />
+            <element signature="e#22497#22807#0" />
+            <element signature="e#22622#22805#0" />
+            <element signature="e#22809#23117#0" />
+            <element signature="e#22932#23115#0" />
+            <element signature="e#23119#23435#0" />
+            <element signature="e#23250#23433#0" />
+            <element signature="e#23437#23759#0" />
+            <element signature="e#23574#23757#0" />
+            <element signature="e#23761#24072#0" />
+            <element signature="e#23888#24070#0" />
+            <element signature="e#24074#24391#0" />
+            <element signature="e#24207#24389#0" />
+            <element signature="e#24393#24709#0" />
+            <element signature="e#24524#24707#0" />
+            <element signature="e#24711#25033#0" />
+            <element signature="e#24848#25031#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="428" selection-start-line="428" selection-end-line="428" />
+          <folding>
+            <element signature="e#4446#4780#0" />
+            <element signature="e#5020#5433#0" />
+            <element signature="e#5060#5163#0" />
+            <element signature="e#5548#5941#0" />
+            <element signature="e#5651#5769#0" />
+            <element signature="e#5686#5759#1" />
+            <element signature="e#5804#5935#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.crrt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
