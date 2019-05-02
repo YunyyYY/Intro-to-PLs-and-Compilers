@@ -1,0 +1,40 @@
+int k;
+int a;
+
+void bar() {
+    cout << a;
+    cout << "hello world\n";
+}
+
+void branch(int x, int y) {
+    if (a == k) {
+        a = k + 1;
+    } else {
+        cout << "this is else";
+    }
+}
+
+bool call() {
+    int a;
+    branch(a, 4);
+    return true;
+}
+
+int foo(int a, bool b) {
+    int ain;
+    bool bin;
+    ain = a + a;
+    bin = !b;
+    return ain;
+}
+
+int main () {
+    int a;
+    int b;
+    int c;
+    bool d;
+    a = 1;
+    b = 2;
+    c = a + b * a - b;
+    return 0;
+}
