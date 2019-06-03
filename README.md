@@ -11,3 +11,5 @@ Project 4, 5 and 6 requires the OS to be case-sensitive.
 - P4 Name Analysis
 - P5 Type Cheker
 - P6 Code Generation
+
+There are a lot of bugs in the projects... but I am too lazy to solve them.
